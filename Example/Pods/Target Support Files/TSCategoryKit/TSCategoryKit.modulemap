@@ -1,0 +1,6 @@
+framework module TSCategoryKit {
+  umbrella header "TSCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

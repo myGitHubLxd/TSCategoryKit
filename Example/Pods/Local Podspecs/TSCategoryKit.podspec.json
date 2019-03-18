@@ -1,0 +1,22 @@
+{
+  "name": "TSCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of TSCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/myGitHubLxd/TSCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "myGitHubLxd": "158344224@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/myGitHubLxd/TSCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TSCategoryKit/Classes/**/*"
+}
